@@ -1,0 +1,156 @@
+#title {
+  background-color: #ff4c68;
+}
+
+.moto {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  margin-top: 15%;
+  margin-bottom: 10%;
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar {
+  font-family: "Ubuntu", sans-serif;
+  padding-bottom: 2.5rem;
+  padding-left: 0;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+}
+
+.phoneimg {
+  width: 60%;
+  transform: rotate(25deg);
+  margin-top: 15%;
+  position: absolute;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.nav-item {
+  padding: 0% 15px;
+}
+
+.dl-button {
+  margin: 2% 2% 1% 1%;
+}
+
+#features {
+  background-color: #fff;
+  position: relative;
+}
+
+.center {
+  text-align: center;
+}
+
+.feature-icon {
+  font-size: 3rem;
+  padding-bottom: 2%;
+  color: #ef8172;
+}
+
+.feature-icon:hover {
+  color: #ff4c68;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  padding-top: 3%;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+  position: relative;
+}
+
+.profilepic {
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px 30px 50px;
+}
+#press {
+  background-color: #ef8172;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.image-logo {
+  width: 10%;
+  padding: 0 15px;
+}
+
+.carousel-item {
+  padding: 5% 20%;
+}
+
+#pricing {
+  padding: 3% 10% 7%;
+}
+
+#pricing {
+  text-align: center;
+}
+
+@media (max-width: 1026px) {
+  #testimonials {
+    position: static;
+  }
+
+  .phoneimg {
+    width: 60%;
+    transform: rotate(0);
+    margin-top: 5%;
+    position: static;
+  }
+}
+
+#cta {
+  background-color: #ff4c68;
+  padding: 5% 16%;
+  text-align: center;
+}
+
+.moto-foot {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  color: #fff;
+  margin-bottom: 2rem;
+}
+
+#footer {
+    text-align: center;
+    padding: 3% 15%;
+}
+
+.icon-foot {
+    padding: 0 1% 1%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+footbtn {
+    margin: 2% 5%;
+}
